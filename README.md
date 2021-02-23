@@ -1,5 +1,5 @@
 <h1 align="center">
-   ## <img alt="Curriculo" class="img-responsive" src=".github/assets/cv-curriculum-vitae-20130810-014.jpg" width="100%"/>
+   ## <img alt="Curriculo" class="img-responsive" src=".react-curriculo-app/src/assests/cv-curriculum-vitae-20130810-014.jpg" width="100%"/>
 </h1>
 
 <h4 align="center">
