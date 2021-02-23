@@ -56,10 +56,9 @@ export default props => {
             <Text style={style.cardText}>LIGA - Laboratorio de Games e Inovações</Text>
           </Card>
 
-          <Card titulo="Experiência Proficional">
-            <Text style={style.cardText}>Kenntech Tecnologia Eletrônica</Text>
-            <Text style={style.cardText}>Citi Industrial Systems</Text>
-            <Text style={style.cardText}>LIGA - Laboratorio de Games e Inovações</Text>
+          <Card titulo="Contato">
+            <Text style={style.cardText}>(99) 99999-9999</Text>
+            <Text style={style.cardText}>email@gmail.com</Text>
           </Card>
 
         </ScrollView>
