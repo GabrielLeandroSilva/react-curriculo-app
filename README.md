@@ -1,4 +1,8 @@
 <h1 align="center">
+ Aplicativo em React Native Curriculo
+</h>
+
+<h1 align="center">
     <img alt="Curriculo" class="img-responsive" src="src/assests/cv-curriculum-vitae-20130810-014.jpg" width="50%"/>
 </h1>
 
